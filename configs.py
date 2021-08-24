@@ -32,7 +32,7 @@ class Config(object):
     
     ABOUT_HELP_TEXT = """<b>
 
-👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: <a href='https://t.me/PredatorHackerzZ'>@PredatorHackerzZ</a>
+👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: <a href='https://t.me/PredatorHackerzZ'>@𝐏𝐫𝐞𝐝𝐚𝐭𝐨𝐫𝐇𝐚𝐜𝐤𝐞𝐫𝐳𝐙</a>
 
 
 Choose Bot category 😎
@@ -74,4 +74,4 @@ Choose Bot category 😎
 
 <b>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 :</b> @PredatorHackerzZ
 
-❤ From @TheTeleRoid"""
+❤ 𝐅𝐫𝐨𝐦 @TheTeleRoid"""
