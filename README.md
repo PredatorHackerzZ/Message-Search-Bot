@@ -15,7 +15,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
 - `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
-- `USER_SESSION_STRING` - Get this from @StringSessionGen_Bot (https://t.me/StringSessionGen_Bot)
+- `USER_SESSION_STRING` - Get this from [@StringSessionGen_Bot](https://t.me/StringSessionGen_Bot)
 - `BOT_SESSION_NAME` - Any Session Name for Bot. 
 - `CHANNEL_ID` - Channel ID for Searching Messages. 
         
