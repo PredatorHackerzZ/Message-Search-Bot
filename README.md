@@ -10,7 +10,20 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 ### Support Group:
 **<a href="https://t.me/TeleRoid14"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>**
+![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
+- `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
+- `API_HASH` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
+- `BOT_TOKEN` - Get this from [@BotFather](https://t.me/BotFather)
+- `BOT_USERNAME` - You Bot Username. *(Without [@])*
+- `DB_CHANNEL` - A Telegram Channel ID.
+	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram DMCA](https://t.me/dmcatelegram)!
+- `BOT_OWNER` - Bot Owner UserID
+	- Put your Telegram UserID for doing Broadcast.
+- `DATABASE_URL` - MongoDB Database URI
+	- This for Saving UserIDs. When you will Broadcast, bot will forward the Broadcast to DB Users.
+- `UPDATES_CHANNEL` - Force Sub Channel ID *(Optional)*
+	- ID of a Channel which you want to do Force Sub to use the bot. 
 ### Follow on:
 <p align="left">
 <a href="https://github.com/PredatorHackerzZ"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
